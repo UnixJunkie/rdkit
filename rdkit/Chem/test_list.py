@@ -46,6 +46,7 @@ tests=[
   ("python","test_list.py",{'dir':'Draw'}),
   ("python","test_list.py",{'dir':'Fraggle'}),
   ("python","test_list.py",{'dir':'SimpleEnum'}),
+  ("python","UnitTestMol2.py",{}),
   ]
 
 # only attempt the MolKey tests if we have the pre-reqs:

@@ -44,7 +44,7 @@ C:\> activate my-rdkit-env
 A [conda-forge](https://conda-forge.org/#about) RDKit package is also available, which may offer an easier installation for users already using other conda-forge packages. This package can be installed with:
 
 ```shellsession
-$ conda install -c conda-forge rdkit
+$ conda install -c conda-forge python=3.8 rdkit cairo
 ```
 
 ### How to build from source with Conda
